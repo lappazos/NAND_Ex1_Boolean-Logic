@@ -1,0 +1,32 @@
+matanhalfon, lioraryepaz
+===============================================================================
+Lior Paz, ID 206240996, lior.paz1@mail.huji.ac.il
+Matan Halfon, ID 205680648, matan.halfon@mail.huji.ac.il
+===============================================================================
+
+                           Project 1 - Elementary Logic Gates
+                           ----------------------------------
+  
+
+Submitted Files
+---------------
+README - This file.
+And.hdl - And chip.
+DMux.hdl - DMux chip.
+DMux8Way.hdl - DMux8Way chip.
+DMux8Way.hdl - DMux8Way chip.
+Not.hdl - Not chip.
+Or.hdl - Or chip.
+Xor.hdl - Xor chip.
+Mux.hdl - Mux chip.
+Not16.hdl - Not16 chip.
+And6.hdl - And16 chip.
+Or16.hdl - Or16 chip.
+Mux16.hdl - Mux16 chip.
+Or8Way.hdl - Or8Way chip.
+Mux4Way16.hdl - Mux4Way16 chip.
+Mux8Way16.hdl - Mux8Way16 chip.
+
+Remarks
+-------
+* Very interesting logic in implementing these chips, we feel smart
